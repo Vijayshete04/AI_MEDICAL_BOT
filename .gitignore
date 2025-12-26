@@ -1,0 +1,64 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE and editor settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+Pipfile.lock
+node_modules/
+
+# Distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and credentials
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# pytest cache
+.pytest_cache/
+
+# other files
+*.bak
+*.tmp
+
+Output/
+<<<<<<< HEAD
+*.jpg
+*.png
+*.gif
+*.mp3
+.venv/
+__pycache__/
+
+=======
+>>>>>>> d6d5d390863cb7bc833d3763373ec090ed31a19b
+
